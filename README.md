@@ -11,15 +11,15 @@ Là sinh viên Kỹ thuật Phần mềm tại Đại học Đồng Tháp, đị
 - 🎓 **Học vấn:** Sinh viên Kỹ thuật Phần mềm — Đạt học bổng Khuyến khích học tập.
 - 🎯 **Mục tiêu:** Manual QA / Automation Tester Intern & Fresher.
 - 🔍 **Đang trau dồi:** Automation Testing (Pytest), API Testing (Postman), và Tiếng Anh chuyên ngành.
-- 💬 **Hỏi mình về:** Lập Test Plan, thiết kế Test Cases, Automation Testing với Python, C#, Java, OOP, SQL.
+- 💬 **Hỏi mình về:** Lập Test Plan, thiết kế Test Cases, C#, Java, OOP, SQL.
 
 ---
 
 ## 🛠️ Kỹ năng & Công cụ
 
-- **Kiểm thử (Testing):** Test Planning, Test Case Design, Black/White-box Testing, Bug Tracking, Automation Scripts (Python, `pytest`, `unittest`).
+- **Kiểm thử (Testing):** Manual Testing (viết Test Plan, Test Case, tìm & báo cáo Bug), Automation Testing cơ bản (Python).
 - **Lập trình (Dev):** Python (PyQt6/PySide6), C# (Windows Forms), Java, C++. Nắm vững OOP, MVC, Mô hình 3 lớp.
-- **Cơ sở dữ liệu (Database):** SQL Server, MySQL, SQLite (Viết query phức tạp, kiểm tra tính toàn vẹn dữ liệu).
+- **Cơ sở dữ liệu (Database):** SQL Server, MySQL.
 - **Công cụ (Tools):** Git/GitHub, Draw.io, Figma, LaTeX.
 
 ---
